@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs y temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos grandes o sensibles
+*.csv
+*.data
+*.db
