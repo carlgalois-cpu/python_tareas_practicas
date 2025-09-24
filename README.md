@@ -19,19 +19,25 @@
 
 ## Estructura del Repositorio
 
-Universidad-UAZ/
-├── Ingenieria-Software/
-│ ├── Introduccion-Programacion/
-│ │ ├── Unidad1-Fundamentos/
-│ │ ├── Unidad2-Estructuras-Control/
-│ │ ├── Unidad3-Funciones/
-│ │ ├── Unidad4-Estructuras-Datos/
-│ │ ├── Unidad5-Programacion-Orientada-Objetos/
-│ │ └── Proyectos/
-│ └── Laboratorio-Programacion/
-│ ├── Practicas/
-│ ├── Proyectos/
-│ └── Ejercicios/
+Ingenieria_de_desarrollo_de_software/
+└── materias/
+    ├── Introduccion_a_la_programacion/
+    │   ├── Conceptos_basicos_de_la_programacion/
+    │   ├── Entradas_y_salidas/
+    │   ├── Tipos_de_datos/
+    │   ├── Estructuras_de_control_(selectivas)/
+    │   ├── Colecciones_(listas,_tuplas_y_diccionarios)/
+    │   ├── Strings_(cadenas)/
+    │   ├── Estructuras_de_control_(repetitivas)/
+    │   ├── Funciones/
+    │   ├── Errores_y_excepciones/
+    │   ├── Archivos_en_Python_(texto,_csv)/
+    │   ├── Introduccion_a_Interfaz_grafica/
+    │   └── Tkinter-Kivy/
+    └── Laboratorio_de_programacion/
+        ├── Trabajos/
+        ├── Tareas/
+        └── Practicas/
 └── README.md
 text
 
